@@ -1,0 +1,50 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Page</title>
+    <meta
+  name="description" content="Discover amazing destinations, affordable packages, and unforgettable travel experiences with our agency"/>
+ </head>
+ <body>
+  <h1>Explore Our Top Travel   Destinations</h1>
+  <p>Welcome to our travel agency, where we help you explore the world with confidence. From relaxing vacations to adventurous trips, we offer travel packages designed to suit your needs.</p>
+  <h2>Packages</h2>
+  <p>We offer a variety of travel packages designed to suit every traveler. Whether you are looking for a relaxing beach holiday, an exciting city adventure, or a cultural experience, our packages are affordable, well-planned, and created to give you the best travel experience</p>
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn""#group-travels" target="_blank">Group Travels</a></li>
+  <li><a href="https://www.freecodecamp.org/learn" "#private-tours" target="_blank">Private Tours</a></li>
+</ul>
+
+<h2>Top Itineraries</h2>
+
+<section>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Beach Destination">
+    </a>
+    <figcaption>Beautiful Beach Getaway</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Mountain Adventure">
+    </a>
+    <figcaption>Mountain Adventure Trip</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="City Tour">
+    </a>
+    <figcaption>Exciting City Tour</figcaption>
+  </figure>
+</section>
+
+ </body>
+</html>
+
+** end of index.html **
+
